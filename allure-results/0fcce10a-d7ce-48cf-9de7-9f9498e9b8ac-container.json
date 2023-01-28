@@ -1,1 +1,0 @@
-{"uuid":"0fcce10a-d7ce-48cf-9de7-9f9498e9b8ac","name":"Scenario: Navigate to Home Page","children":["08bb1716-4e93-448c-aa81-282b3faed5df"],"befores":[],"afters":[{"name":"stepDefinitions.Hooks.tearDown()","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1674912710682,"stop":1674912711854}],"start":1674912705430,"stop":1674912711854}
