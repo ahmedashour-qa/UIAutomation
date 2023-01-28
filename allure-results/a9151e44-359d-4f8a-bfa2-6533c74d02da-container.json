@@ -1,0 +1,1 @@
+{"uuid":"a9151e44-359d-4f8a-bfa2-6533c74d02da","name":"Scenario: Verify Remove Item from Cart","children":["c87fadd2-a3d7-4319-b60b-4745f7b96854"],"befores":[],"afters":[{"name":"stepDefinitions.Hooks.tearDown()","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1674925593987,"stop":1674925594602}],"start":1674925581926,"stop":1674925594602}

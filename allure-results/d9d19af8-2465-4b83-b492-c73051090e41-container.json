@@ -1,0 +1,1 @@
+{"uuid":"d9d19af8-2465-4b83-b492-c73051090e41","name":"Scenario: Verify Add to Cart","children":["85e363e8-5569-40a9-9ac0-02a690bf4a0b"],"befores":[],"afters":[{"name":"stepDefinitions.Hooks.tearDown()","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1674925590452,"stop":1674925591759}],"start":1674925581944,"stop":1674925591760}
